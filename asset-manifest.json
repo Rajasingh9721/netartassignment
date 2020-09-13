@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/netartassignment/static/css/main.80efac6f.chunk.css",
+    "main.js": "/netartassignment/static/js/main.01cdd50f.chunk.js",
+    "main.js.map": "/netartassignment/static/js/main.01cdd50f.chunk.js.map",
+    "runtime-main.js": "/netartassignment/static/js/runtime-main.948af531.js",
+    "runtime-main.js.map": "/netartassignment/static/js/runtime-main.948af531.js.map",
+    "static/js/2.dd53ef84.chunk.js": "/netartassignment/static/js/2.dd53ef84.chunk.js",
+    "static/js/2.dd53ef84.chunk.js.map": "/netartassignment/static/js/2.dd53ef84.chunk.js.map",
+    "index.html": "/netartassignment/index.html",
+    "precache-manifest.b4e8831fe539328e2db6f63779c1d68c.js": "/netartassignment/precache-manifest.b4e8831fe539328e2db6f63779c1d68c.js",
+    "service-worker.js": "/netartassignment/service-worker.js",
+    "static/css/main.80efac6f.chunk.css.map": "/netartassignment/static/css/main.80efac6f.chunk.css.map",
+    "static/js/2.dd53ef84.chunk.js.LICENSE.txt": "/netartassignment/static/js/2.dd53ef84.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/netartassignment/static/media/1.29d96123.png",
+    "static/media/2.png": "/netartassignment/static/media/2.57d5c650.png",
+    "static/media/3.png": "/netartassignment/static/media/3.b5ddb141.png",
+    "static/media/logo.png": "/netartassignment/static/media/logo.5762018e.png",
+    "static/media/logo.svg": "/netartassignment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.948af531.js",
+    "static/js/2.dd53ef84.chunk.js",
+    "static/css/main.80efac6f.chunk.css",
+    "static/js/main.01cdd50f.chunk.js"
+  ]
+}
